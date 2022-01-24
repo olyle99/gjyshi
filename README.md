@@ -1420,7 +1420,7 @@ https://videos.files.wordpress.com/2YRRVoFB/sp1.5_dvd.mp4
 https://videos.files.wordpress.com/yf02smQM/sp1.6_dvd.mp4
 #EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/UnE2oAV.png",[SPARTACUS] SEZ 01 EP 07[$]
 https://videos.files.wordpress.com/Fl1rEpDg/sp1.7_dvd.mp4
-#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/UnE2oAV.png",[SPARTACUS] SEZ 01 EP 08[$]
+#EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/UnE2oAV.png",[SPARTACUS] SEZ 01 EP 08[$] 
 https://videos.files.wordpress.com/f2CviWqR/sp1.8_dvd.mp4
 #EXTINF:-1 group-title="[AL]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/UnE2oAV.png",[SPARTACUS] SEZ 01 EP 09[$]
 https://videos.files.wordpress.com/kYwmAGAJ/sp1.9_dvd.mp4
