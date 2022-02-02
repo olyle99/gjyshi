@@ -62,6 +62,10 @@ http://185.204.32.4:9981/stream/channelid/1793321722|User-Agent=stream
 http://185.204.32.49:6735/BlueSky/stream/playlist.m3u8
 #EXTINF:0 group-title="" tvg-logo="",========>>LAJME<<========
 https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?ibc2
+#EXTINF:-1 group-title="" tvg-logo="https://i.imgur.com/iFgj4d2.png",[$]News 24 HD
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://i.imgur.com/iFgj4d2.png",[$]News 24
+http://93.157.62.180/News24/mpegts|User-Agent=stream
 #EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/7HxzZqY.png",[$]SYRI TV
 http://130.0.24.6:2831/udp/239.101.101.14:2345
 #EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/bec55Pq.png",[$]EURONEWS AL
