@@ -24,6 +24,10 @@ http://130.0.24.6:2831/udp/239.101.43.67:2345
 http://130.0.24.6:2831/udp/239.101.43.24:2345
 #EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/QNKBs1l.png",[$]MCN-TV 
 http://edge01eu.ekranet.com/mcntv_360p/index.m3u8|User-Agent=stream
+#EXTINF:-1 group-title="" tvg-logo="https://i.imgur.com/l4SR0Mr.png",[$]SCAN-TV HD
+http://171.22.150.202:2040/live/scanmob/playlist.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://i.imgur.com/l4SR0Mr.png",[$]SCAN-tv
+http://edge01eu.ekranet.com/scantv/index.m3u8|User-Agent=stream
 #EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/68glg3e.png",[$]RTK 1HD 
 http://130.0.24.6:2831/udp/239.101.43.27:2345
 #EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/C1pDVM9.png",[$]RTV 21HD 
