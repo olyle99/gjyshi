@@ -23,10 +23,10 @@ http://130.0.24.6:2831/udp/239.101.43.67:2345
 #EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/YMM0Et3.png",[$]RTSH SPORT HD 
 http://130.0.24.6:2831/udp/239.101.43.24:2345
 #EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/QNKBs1l.png",[$]MCN-TV 
-http://edge01eu.ekranet.com/mcntv_360p/index.m3u8|User-Agent=stream
+http://edge01eu.ekranet.com/mcntv_234p/index.m3u8|User-Agent=stream
+#EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/QNKBs1l.png",[$]MCN-TV HD
+http://185.204.32.49:6735/MCNTV/stream/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://i.imgur.com/l4SR0Mr.png",[$]SCAN-TV HD
-http://171.22.150.202:2040/live/scanmob/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://i.imgur.com/l4SR0Mr.png",[$]SCAN-tv
 http://edge01eu.ekranet.com/scantv/index.m3u8|User-Agent=stream
 #EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/68glg3e.png",[$]RTK 1HD 
 http://130.0.24.6:2831/udp/239.101.43.27:2345
@@ -201,13 +201,19 @@ http://185.204.32.49:6735/UltraNetS4/stream/playlist.m3u8
 #EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/dj10XJ4.png",[$]SUPER SPORT 5HD
 http://93.157.62.180/Supersport5/mpegts|User-Agent=stream
 #EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/nMeeRXH.png",[$]SS-1HD 
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/178.ts|User-Agent=VAVOO/2.6
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/178.ts|User-Agent=moterqim
 #EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/4d7rJsj.png",[$]SS-2HD 
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/179.ts|User-Agent=VAVOO/2.6
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/179.ts|User-Agent=moterqim
 #EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/27WEeEG.png",[$]SS-3HD 
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/180.ts|User-Agent=VAVOO/2.6
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/180.ts|User-Agent=moterqim
 #EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/RWveFaA.png",[$]SS-4HD 
 http://185.204.32.49:6735/UltraNetS4/stream/playlist.m3u8?
+#EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/nMeeRXH.png",[$]SS-1HD (test)
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/178.ts|User-Agent=tv
+#EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/4d7rJsj.png",[$]SS-2HD (test)
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/179.ts|User-Agent=tv
+#EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/27WEeEG.png",[$]SS-3HD (test)
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/180.ts|User-Agent=tv
 #EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/2QJTqPu.png",[$]KUJTESA SPORT 1HD
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/2187
 #EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/0WYzVt9.png",[$]KUJTESA SPORT 2HD
