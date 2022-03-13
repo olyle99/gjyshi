@@ -207,7 +207,7 @@ http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/179.ts|User-Agent=moterqim
 #EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/27WEeEG.png",[$]SS-3HD 
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/180.ts|User-Agent=moterqim
 #EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/RWveFaA.png",[$]SS-4HD 
-http://185.204.32.49:6735/UltraNetS4/stream/playlist.m3u8?
+http://45.58.122.106:8081/live/s4/playlist.m3u8
 #EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/nMeeRXH.png",[$]SS-1HD (test)
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/178.ts|User-Agent=tv
 #EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/4d7rJsj.png",[$]SS-2HD (test)
