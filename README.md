@@ -201,19 +201,21 @@ http://185.204.32.49:6735/UltraNetS4/stream/playlist.m3u8
 #EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/dj10XJ4.png",[$]SUPER SPORT 5HD
 http://93.157.62.180/Supersport5/mpegts|User-Agent=stream
 #EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/nMeeRXH.png",[$]SS-1HD 
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/178.ts|User-Agent=moterqim
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/47084?
 #EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/4d7rJsj.png",[$]SS-2HD 
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/179.ts|User-Agent=moterqim
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/47082?
 #EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/27WEeEG.png",[$]SS-3HD 
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/180.ts|User-Agent=moterqim
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/47080?
 #EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/RWveFaA.png",[$]SS-4HD 
-http://45.58.122.106:8081/live/s4/playlist.m3u8
-#EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/nMeeRXH.png",[$]SS-1HD (test)
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/178.ts|User-Agent=tv
-#EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/4d7rJsj.png",[$]SS-2HD (test)
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/179.ts|User-Agent=tv
-#EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/27WEeEG.png",[$]SS-3HD (test)
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/180.ts|User-Agent=tv
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/47078?
+#EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/OXVuWhw.png",[$]SS-1HD(TEST) 
+http://45.58.122.106:8081/live/ss1/playlist.m3u8
+#EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/nT29xam.png",[$]SS-2HD(TEST)  
+http://45.58.122.106:8081/live/ss2/playlist.m3u8
+#EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/FbjsZCv.png",[$]SS-3HD(TEST)  
+http://45.58.122.106:8081/live/ss3/playlist.m3u8
+#EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/wJkhg8A.png",[$]SS-4HD(TEST)  
+http://45.58.122.106:8081/live/ss4/playlist.m3u8
 #EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/2QJTqPu.png",[$]KUJTESA SPORT 1HD
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/2187
 #EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/0WYzVt9.png",[$]KUJTESA SPORT 2HD
