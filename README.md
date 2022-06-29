@@ -9,7 +9,9 @@ http://130.0.24.6:2831/udp/239.101.43.76:2345
 #EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/Py2azDo.png",[$]Klan Plus HD
 http://130.0.24.6:2831/udp/239.101.43.77:2345
 #EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/40PF3sT.png",[$]ALSAT-M HD
-http://130.0.24.6:2831/udp/239.101.43.101:2345
+http://local.liveline.nu:2085/play/a0b2ALSAMMFHD/index.m3u8
+#EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/40PF3sT.png",[$]ALSAT-M
+http://146.59.19.1:80/5029/index.m3u8
 #EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/sL2pFjC.png",[$]KTV
 http://130.0.24.6:2831/udp/239.101.41.18:2345
 #EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/sS9qiam.png",[$]ORA HD
