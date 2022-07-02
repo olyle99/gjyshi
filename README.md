@@ -10,8 +10,6 @@ http://130.0.24.6:2831/udp/239.101.43.76:2345
 http://130.0.24.6:2831/udp/239.101.43.77:2345
 #EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/40PF3sT.png",[$]ALSAT-M HD
 http://local.liveline.nu:2085/play/a0b2ALSAMMFHD/index.m3u8
-#EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/40PF3sT.png",[$]ALSAT-M
-http://146.59.19.1:80/5029/index.m3u8?
 #EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/sL2pFjC.png",[$]KTV
 http://130.0.24.6:2831/udp/239.101.41.18:2345
 #EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/sS9qiam.png",[$]ORA HD
@@ -295,13 +293,13 @@ http://130.0.24.6:2831/udp/239.101.43.59:2345
 #EXTINF:-1 group-title="" tvg-logo="https://i.imgur.com/BbPa1Xk.png",[$]CHAMPIONS SPORT 4HD 
 http://130.0.24.6:2831/udp/239.101.43.66:2345
 #EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/Z6S3HUT.png",[$]OVER-TRING SPORT 1HD
-http://95.107.132.106/out/u/683_3.m3u8
+http://95.107.132.106/out/u/683_4.m3u8
 #EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/sF1ZkkT.png",[$]OVER-TRING SPORT 2HD
-http://95.107.132.106/out/u/691_3.m3u8
+http://95.107.132.106/out/u/692_1.m3u8
 #EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/CHDkBqu.png",[$]OVER-TRING SPORT 3HD
 http://95.107.132.106/out/u/699_2.m3u8
 #EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/tnNS7MG.png",[$]OVER-TRING SPORT 4HD
-http://95.107.132.106/out/u/708_3.m3u8
+http://95.107.132.106/out/u/710_4.m3u8
 #EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/Vv65XJZ.png",[$]OVERSPORT 1HD 
 http://cleverside.us:8484/Pop1/Player/678?|User-Agent=1
 #EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/SlgLmre.png",[$]OVERSPORT 2HD 
