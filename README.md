@@ -292,30 +292,30 @@ http://130.0.24.6:2831/udp/239.101.43.58:2345
 http://130.0.24.6:2831/udp/239.101.43.59:2345
 #EXTINF:-1 group-title="" tvg-logo="https://i.imgur.com/BbPa1Xk.png",[$]CHAMPIONS SPORT 4HD 
 http://130.0.24.6:2831/udp/239.101.43.66:2345
-#EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/Z6S3HUT.png",[$]OVER-TRING SPORT 1HD
-http://95.107.132.106/out/u/683_4.m3u8
-#EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/sF1ZkkT.png",[$]OVER-TRING SPORT 2HD
-http://95.107.132.106/out/u/692_1.m3u8
-#EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/CHDkBqu.png",[$]OVER-TRING SPORT 3HD
-http://95.107.132.106/out/u/699_2.m3u8
-#EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/tnNS7MG.png",[$]OVER-TRING SPORT 4HD
-http://95.107.132.106/out/u/710_4.m3u8
+#EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/CZaGKKq.png",[$]OVERTRING SPORT 1HD
+http://95.107.132.106/out/u/684_1.m3u8?
+#EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/HrVXXO6.png",[$]OVERTRING SPORT 2HD
+http://95.107.132.106/out/u/692_1.m3u8?
+#EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/ujC0695.png",[$]OVERTRING SPORT 3HD
+http://95.107.132.106/out/u/700_2.m3u8?
+#EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/gWfgbS3.png",[$]OVERTRING SPORT 4HD
+http://95.107.132.106/out/u/710_4.m3u8?
 #EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/Vv65XJZ.png",[$]OVERSPORT 1HD 
-http://cleverside.us:8484/PopPlayer0/PopPlayer0/678?|User-Agent=2
+http://cleverside.us:8484/miPlayer0/miPlayer/678?|User-Agent=2
 #EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/SlgLmre.png",[$]OVERSPORT 2HD 
-http://cleverside.us:8484/PopPlayer0/PopPlayer0/679?|User-Agent=2
+http://cleverside.us:8484/miPlayer0/mipPlayer/679?|User-Agent=2
 #EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/QOuNjbL.png",[$]OVERSPORT 3HD
-http://cleverside.us:8484/PopPlayer0/PopPlayer0/680?|User-Agent=2
+http://cleverside.us:8484/miPlayer0/miPlayer/680?|User-Agent=2
 #EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/EiOKygE.png",[$]OVERSPORT 4HD 
-http://cleverside.us:8484/PopPlayer0/PopPlayer0/681?|User-Agent=2
+http://cleverside.us:8484/miPlayer0/miPlayer/681?|User-Agent=2
 #EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/UWTpW21.png",[$]SUPER SPORT 1HD (VIP)
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/208
+http://54.36.63.52:7646/007pannelstream/PbfcSvhY8PcL/208
 #EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/o1C4usx.png",[$]SUPER SPORT 2HD (VIP)
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/209
+http://54.36.63.52:7646/007pannelstream/PbfcSvhY8PcL/209
 #EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/ZklSK4O.png",[$]SUPER SPORT 3HD (VIP)
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/210
+http://54.36.63.52:7646/007pannelstream/PbfcSvhY8PcL/210
 #EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/5q2bu31.png",[$]SUPER SPORT 4HD (VIP)
-http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/211
+http://54.36.63.52:7646/007pannelstream/PbfcSvhY8PcL/211
 #EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/yiFWG1r.png",[$]SS-1HD
 http://iptvtree.net:8080/live/i4stream/d78b24fc9a18/1313.ts
 #EXTINF:0 group-title="" tvg-logo="https://i.imgur.com/EBJd0U6.png",[$]SS-2HD 
